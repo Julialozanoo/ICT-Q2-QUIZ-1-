@@ -1,0 +1,52 @@
+body {
+            background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4eOP_9EAUL_BQt9VmdmWy2f0Jn2wa-EsdA&s);
+            color: black;
+            font-family: "Playfair Display", serif;
+        }
+
+        h1 {
+            background-image: url(https://i.pinimg.com/control2/736x/d3/4e/d1/d34ed1775f75f68e4e35395444407d4b.jpg);
+        }
+
+        .container {
+            background-image: url(https://i.pinimg.com/control2/736x/d3/4e/d1/d34ed1775f75f68e4e35395444407d4b.jpg);
+            font-family: "Playfair Display", serif;
+        }
+
+        img {
+            width: 150px;
+            box-shadow: -20px 22px 50px -9px rgba(0, 0, 0, 30.20000);
+            padding: 0.5px;
+        }
+
+        footer {
+            text-align: center;
+    		background-image: url(https://i.pinimg.com/control2/736x/d3/4e/d1/d34ed1775f75f68e4e35395444407d4b.jpg);
+   			text-align: center; 
+    		padding: 1px;
+        }
+
+        .table img {
+            transition: transform 0.30s ease;
+        }
+
+        .table img:hover {
+            transform: scale(1.2);
+        }
+        .philippine-flag {
+            width: 100%;
+            max-width: 300px;
+            margin: 20px auto;
+            display: block;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 100.200);
+/*            padding: 5px;*/
+            border-radius: 8px;
+        }
+        .table th, .table td {
+            vertical-align: middle;
+            text-align: center;
+        }
+        .table td img {
+            width: 100px;
+            border-radius: 8px;
+        }
